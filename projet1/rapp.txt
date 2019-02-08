@@ -1,0 +1,29 @@
+Html5
+Css
+PhP
+Projet
+Collabore
+
+
+1. Mipih (service informatique des hopitaux)
+
+
+2. Qu'est-ce qu'un développeur ? C'est un informaticien qui programme des sites internet, des logiciels, etc.
+Pour créer un site internet, on utilise le language HTML5, le Css, le PhP...
+
+Quels sont leurs rôles ?
+
+Le HTML5, en anglais "hypertext markup language 5" est un language pour la représentation de la page web.
+Par exemple on peut y inscrire de texte, des images, etc.
+
+Le Css, en anglais "Cascading style Sheets'" est le language de présentation, c'est-à-dire elle permet de donner une finition à la page.
+Par exemple, on peut changer le fond de la page, changer les couleurs, mettre en forme le texte.
+
+Le PhP, en anglais hypertext Preprocessor, permet elle de rendre votre site internet plus dynamiques, plus interactif.
+Par exemple, blogs, réseaux sociaux sont interactif car ils sont créer en PhP.
+
+Il y a plusieurs type de développeur.
+Il y a les webmaster(propriétaire du site), les chefs de Projet(gere les projet des sites),
+les web designer(designer du site internet), développeur web (spécialisé dans le web travaille sur les fonction d'un projet), etc...
+
+Études ? BTS +2 ou DUT informatique.
